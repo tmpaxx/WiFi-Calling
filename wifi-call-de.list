@@ -1,0 +1,31 @@
+# 地区检测
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+# Vodafone GmbH
+epdg.epc.mnc042.mcc262.pub.3gppnetwork.org	
+epdg.epc.mnc043.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc009.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc004.mcc262.pub.3gppnetwork.org
+# Telekom Deutschland GmbH
+epdg.epc.mnc006.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc078.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc001.mcc262.pub.3gppnetwork.org
+# Telefonica Germany GmbH & Co. oHG
+epdg.epc.mnc020.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc077.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc011.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc012.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc016.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc017.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc007.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc008.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc005.mcc262.pub.3gppnetwork.org
+epdg.epc.mnc003.mcc262.pub.3gppnetwork.org
+# NetCologne Ges. f. Telekommunikation mbH
+epdg.epc.mnc018.mcc262.pub.3gppnetwork.org
+# sipgate Wireless GmbH
+epdg.epc.mnc022.mcc262.pub.3gppnetwork.org
+# Drillisch Netz AG
+epdg.epc.mnc023.mcc262.pub.3gppnetwork.org
+# Ericsson GmbH
+epdg.epc.mnc072.mcc262.pub.3gppnetwork.org
