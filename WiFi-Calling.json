@@ -1,0 +1,121 @@
+{
+  "route": {
+    "rules": [
+      {
+        "type": "field",
+        "outbound": "wifi-calling",
+        "domain": [
+          "ls.apple.com"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "ee",
+        "domain": [
+          "ee.co.uk",
+          "mnc030.mcc234.pub.3gppnetwork.org",
+          "mnc033.mcc234.pub.3gppnetwork.org",
+          "mnc071.mcc234.pub.3gppnetwork.org"
+        ],
+        "ip": [
+          "46.68.57.0/23",
+          "46.68.58.0/23",
+          "46.68.59.0/23"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "vodafone-uk",
+        "domain": [
+          "vodafone.co.uk",
+          "entsrv-uk.vodafone.com",
+          "vuk-gto.prod.ondemandconnectivity.com",
+          "mnc015.mcc234.pub.3gppnetwork.org"
+        ],
+        "ip": [
+          "88.82.0.0/19",
+          "148.252.160.0/19",
+          "172.67.140.185/32",
+          "104.21.40.247/32",
+          "85.205.100.0/24"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "three-uk",
+        "domain": [
+          "three.co.uk",
+          "huk.prod.ondemandconnectivity.com",
+          "esim-es-open-prod-tuk.esimcloud.net",
+          "mnc020.mcc234.pub.3gppnetwork.org"
+        ],
+        "ip": [
+          "185.153.236.0/24",
+          "185.153.237.0/24"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "giffgaff",
+        "domain": [
+          "giffgaff.com",
+          "o2.co.uk",
+          "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+          "config.rcs.mnc010.mcc234.pub.3gppnetwork.org"
+        ],
+        "ip": [
+          "87.194.8.8/32",
+          "87.194.9.8/32",
+          "87.194.88.8/32",
+          "87.194.89.8/32"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "vodafone-de",
+        "domain": [
+          "epdg.epc.mnc042.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc043.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc002.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc009.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc004.mcc262.pub.3gppnetwork.org"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "telekom-de",
+        "domain": [
+          "epdg.epc.mnc006.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc078.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "telefonica-de",
+        "domain": [
+          "epdg.epc.mnc020.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc077.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc011.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc012.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc016.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc017.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc007.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc008.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc005.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc003.mcc262.pub.3gppnetwork.org"
+        ]
+      },
+      {
+        "type": "field",
+        "outbound": "others",
+        "domain": [
+          "epdg.epc.mnc018.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc022.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc023.mcc262.pub.3gppnetwork.org",
+          "epdg.epc.mnc072.mcc262.pub.3gppnetwork.org"
+        ]
+      }
+    ]
+  }
+}
