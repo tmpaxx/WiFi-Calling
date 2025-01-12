@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ls.apple.com"
+        "ee.co.uk",
+        "mnc030.mcc234.pub.3gppnetwork.org",
+        "mnc033.mcc234.pub.3gppnetwork.org",
+        "mnc071.mcc234.pub.3gppnetwork.org"
+        "vodafone.co.uk",
+        "mnc015.mcc234.pub.3gppnetwork.org"
+        "three.co.uk",
+        "mnc020.mcc234.pub.3gppnetwork.org"
+        "giffgaff.com",
+        "o2.co.uk"
+      ],
+      "domain": [
+        "entsrv-uk.vodafone.com",
+        "vuk-gto.prod.ondemandconnectivity.com"
+        "huk.prod.ondemandconnectivity.com",
+        "esim-es-open-prod-tuk.esimcloud.net"
+        "huk.prod.ondemandconnectivity.com",
+        "esim-es-open-prod-tuk.esimcloud.net"
+        "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+        "config.rcs.mnc010.mcc234.pub.3gppnetwork.org"
+        "epdg.epc.mnc042.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc043.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc002.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc009.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc004.mcc262.pub.3gppnetwork.org"
+        "epdg.epc.mnc006.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc078.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org"
+        "epdg.epc.mnc020.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc077.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc011.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc012.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc016.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc017.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc007.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc008.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc005.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc003.mcc262.pub.3gppnetwork.org"
+        "epdg.epc.mnc018.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc022.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc023.mcc262.pub.3gppnetwork.org",
+        "epdg.epc.mnc072.mcc262.pub.3gppnetwork.org"
+    }
+  ]
+}
